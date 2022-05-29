@@ -1,9 +1,2 @@
-class Line{
-    x: number
-    y: number
-    z: number
+let picture = image.screenImage()
 
-    constructor(x:number, y:number, z:number){
-
-    }
-}

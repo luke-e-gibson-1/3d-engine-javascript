@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="!SG^o?NnwaR4;Ubk=AeD">picture</variable><variable id=";ZR`MRym.anry*AUK{D.">item</variable></variables><block type="pxt-on-start" id="SS,d8t5oZQ=M))weF9@K" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="bVyZcLi~?8@Xpp,WHm_I"><field name="VAR" id="!SG^o?NnwaR4;Ubk=AeD">picture</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="imagescreen" id="i2vaF{(lzNUG6a(KF!RE"></block></value><next><block type="typescript_statement" id="]8W*tSq-;p(K3TM%uyRo" editable="false"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="class Line{" line1="    x: number" line2="    y: number" line3="    z: number" line4="    x1: number" line5="    y1: number" line6="    z1: number" line7="    fov: number" line8="" line9="    constructor(_x: number, _y: number, _z: number, _x1: number, _y1: number, _z1: number){" line10="        this.x = _x" line11="        this.y = _y" line12="        this.z = _z" line13="        this.x1 = _x1" line14="        this.y1 = _y1" line15="        this.z1 = _z1" line16="    }" line17="" line18="" line19="    update(_x:number, _y:number, _z:number){" line20="        this.x = _x" line21="        this.y = _y " line22="        this.z = _z" line23="    }" line24="    draw(){" line25="        picture.drawLine(((this.fov * this.x) * this.z), ((this.fov * this.y) * this.z), 0, 0, 0)" line26="    }" line27="}" numlines="28"></mutation></block></next></block></statement></block><block type="custom_foo" id="UdSy!5L96d.Q@~j;nLD3" disabled="true" x="150" y="70"></block><block type="screen_image_picker" id="l-I(#}5hwg9OmzG?BY3{" disabled="true" x="246" y="152"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></block></xml>
